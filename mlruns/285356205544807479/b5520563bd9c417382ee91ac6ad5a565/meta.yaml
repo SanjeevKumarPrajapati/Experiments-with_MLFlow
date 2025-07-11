@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/285356205544807479/b5520563bd9c417382ee91ac6ad5a565/artifacts
+end_time: 1752228609021
+entry_point_name: ''
+experiment_id: '285356205544807479'
+lifecycle_stage: active
+run_id: b5520563bd9c417382ee91ac6ad5a565
+run_name: stately-boar-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752228566664
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

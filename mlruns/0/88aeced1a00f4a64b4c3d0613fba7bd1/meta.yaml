@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/88aeced1a00f4a64b4c3d0613fba7bd1/artifacts
+end_time: 1752217288443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88aeced1a00f4a64b4c3d0613fba7bd1
+run_name: debonair-goat-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752217288254
+status: 4
+tags: []
+user_id: Sanjeev2.Prajapati

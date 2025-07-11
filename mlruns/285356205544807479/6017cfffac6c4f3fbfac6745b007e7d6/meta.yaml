@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/285356205544807479/6017cfffac6c4f3fbfac6745b007e7d6/artifacts
+end_time: 1752227337705
+entry_point_name: ''
+experiment_id: '285356205544807479'
+lifecycle_stage: active
+run_id: 6017cfffac6c4f3fbfac6745b007e7d6
+run_name: capricious-chimp-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752227335584
+status: 4
+tags: []
+user_id: Sanjeev2.Prajapati

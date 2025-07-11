@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/439c87f1531947368476175317bc3dd7/artifacts
+end_time: 1752218949440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 439c87f1531947368476175317bc3dd7
+run_name: salty-skunk-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752218948145
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

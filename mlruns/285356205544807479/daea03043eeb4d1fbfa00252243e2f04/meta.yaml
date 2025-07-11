@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/285356205544807479/daea03043eeb4d1fbfa00252243e2f04/artifacts
+end_time: 1752227697223
+entry_point_name: ''
+experiment_id: '285356205544807479'
+lifecycle_stage: active
+run_id: daea03043eeb4d1fbfa00252243e2f04
+run_name: mercurial-crow-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752227660680
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

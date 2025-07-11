@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/300691f139b1472ebcb04861d3a2b09e/artifacts
+end_time: 1752217710366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 300691f139b1472ebcb04861d3a2b09e
+run_name: bouncy-flea-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752217708936
+status: 4
+tags: []
+user_id: Sanjeev2.Prajapati

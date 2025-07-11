@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4bbb7c2aced54f2d85785ff130c427e6/artifacts
+end_time: 1752217109923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bbb7c2aced54f2d85785ff130c427e6
+run_name: nosy-stag-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752217109735
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

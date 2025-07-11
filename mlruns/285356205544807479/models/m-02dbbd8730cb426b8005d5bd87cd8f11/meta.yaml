@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/285356205544807479/models/m-02dbbd8730cb426b8005d5bd87cd8f11/artifacts
+creation_timestamp: 1752227411692
+experiment_id: '285356205544807479'
+last_updated_timestamp: 1752227451954
+model_id: m-02dbbd8730cb426b8005d5bd87cd8f11
+model_type: ''
+name: RandomForest Classifier
+source_run_id: abdf6fcb816b4375bd8da90cc5214cf8
+status: 2
+status_message: null

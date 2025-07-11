@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4427b953128143b49f3ec246dc66846d/artifacts
+end_time: 1752216474868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4427b953128143b49f3ec246dc66846d
+run_name: puzzled-shad-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752216474755
+status: 4
+tags: []
+user_id: Sanjeev2.Prajapati

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/285356205544807479/7fe6f1751574456089964795689a8663/artifacts
+end_time: 1752226510985
+entry_point_name: ''
+experiment_id: '285356205544807479'
+lifecycle_stage: active
+run_id: 7fe6f1751574456089964795689a8663
+run_name: rumbling-flea-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752226507745
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

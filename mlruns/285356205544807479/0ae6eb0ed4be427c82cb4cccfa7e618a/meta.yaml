@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/285356205544807479/0ae6eb0ed4be427c82cb4cccfa7e618a/artifacts
+end_time: 1752229085313
+entry_point_name: ''
+experiment_id: '285356205544807479'
+lifecycle_stage: active
+run_id: 0ae6eb0ed4be427c82cb4cccfa7e618a
+run_name: adventurous-skink-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752229046619
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

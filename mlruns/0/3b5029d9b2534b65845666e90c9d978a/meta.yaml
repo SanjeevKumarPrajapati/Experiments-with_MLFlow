@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3b5029d9b2534b65845666e90c9d978a/artifacts
+end_time: 1752217255247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b5029d9b2534b65845666e90c9d978a
+run_name: lyrical-snipe-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752217255049
+status: 4
+tags: []
+user_id: Sanjeev2.Prajapati
