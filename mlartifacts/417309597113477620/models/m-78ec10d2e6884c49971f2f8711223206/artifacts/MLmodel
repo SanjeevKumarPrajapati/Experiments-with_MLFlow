@@ -1,0 +1,37 @@
+artifact_path: mlflow-artifacts:/417309597113477620/models/m-78ec10d2e6884c49971f2f8711223206/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-78ec10d2e6884c49971f2f8711223206
+model_size_bytes: 17128
+model_uuid: m-78ec10d2e6884c49971f2f8711223206
+prompts: null
+run_id: 9ff0e714734e41d89d594990b1636cac
+signature:
+  inputs: '[{"type": "double", "name": "alcohol", "required": true}, {"type": "double",
+    "name": "malic_acid", "required": true}, {"type": "double", "name": "ash", "required":
+    true}, {"type": "double", "name": "alcalinity_of_ash", "required": true}, {"type":
+    "double", "name": "magnesium", "required": true}, {"type": "double", "name": "total_phenols",
+    "required": true}, {"type": "double", "name": "flavanoids", "required": true},
+    {"type": "double", "name": "nonflavanoid_phenols", "required": true}, {"type":
+    "double", "name": "proanthocyanins", "required": true}, {"type": "double", "name":
+    "color_intensity", "required": true}, {"type": "double", "name": "hue", "required":
+    true}, {"type": "double", "name": "od280/od315_of_diluted_wines", "required":
+    true}, {"type": "double", "name": "proline", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-14 06:27:37.918413'

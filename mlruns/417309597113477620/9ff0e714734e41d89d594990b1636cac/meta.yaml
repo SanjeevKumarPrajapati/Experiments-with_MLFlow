@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/417309597113477620/9ff0e714734e41d89d594990b1636cac/artifacts
+end_time: 1752474485919
+entry_point_name: ''
+experiment_id: '417309597113477620'
+lifecycle_stage: active
+run_id: 9ff0e714734e41d89d594990b1636cac
+run_name: traveling-robin-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752474457233
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

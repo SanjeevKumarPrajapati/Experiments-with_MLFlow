@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/285356205544807479/2b55498f26ca45389ad1f7aea7cdf712/artifacts
+end_time: 1752474334570
+entry_point_name: ''
+experiment_id: '285356205544807479'
+lifecycle_stage: active
+run_id: 2b55498f26ca45389ad1f7aea7cdf712
+run_name: sedate-gnu-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752474295271
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati

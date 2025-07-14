@@ -1,0 +1,66 @@
+What is Logged Using mlflow.autolog() and What Is Not
+mlflow.autolog() is a convenient MLflow feature that automatically logs parameters, metrics, models, and artifacts when you're training models with supported machine learning libraries.
+
+✅ What is logged using mlflow.autolog():
+The logged items depend on the library you're using. Here's a breakdown by popular libraries:
+
+1. scikit-learn
+Model parameters (e.g., max_depth, n_estimators, etc.)
+
+Metrics (e.g., accuracy, r2, etc. — based on score() method)
+
+Trained model itself (as an MLflow artifact)
+
+Input examples and model signature
+
+Estimator class name and version
+
+2. TensorFlow / Keras
+Parameters (e.g., number of epochs, batch size)
+
+Metrics (e.g., loss, accuracy)
+
+Model summary
+
+Model architecture and weights
+
+TensorBoard logs
+
+3. PyTorch Lightning
+Parameters and metrics
+
+Optimizer and learning rate scheduler details
+
+Model checkpoint
+
+4. XGBoost / LightGBM / CatBoost
+Parameters passed to the training API
+
+Evaluation metrics during training
+
+Booster/model artifacts
+
+🚫 What is not logged using mlflow.autolog():
+Custom metrics or logs outside of the supported training APIs
+(You must log those manually using mlflow.log_metric(), etc.)
+
+Data preprocessing steps (e.g., scaling, encoding)
+
+Intermediate steps in pipelines (unless the entire pipeline is wrapped)
+
+Detailed logging if you're using custom training loops (e.g., in PyTorch)
+
+Errors or exceptions during training
+
+Hyperparameter tuning (unless integrated with tools like Optuna and logged manually)
+
+Summary
+Category	Logged?	Notes
+Model parameters	✅	Auto-logged for supported frameworks
+Metrics	✅	Standard ones via model’s API
+Custom metrics	❌	Must use mlflow.log_metric() manually
+Data preprocessing	❌	Not logged by default
+Model artifacts	✅	Saved and versioned
+Training logs	✅	For TensorFlow/Keras (e.g., TensorBoard)
+Hyperparameter tuning	❌	Use manual logging or plugins
+Errors/exceptions	❌	Not captured by MLflow
