@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/sanjeev2.prajapati/OneDrive%20-%20Reliance%20Corporate%20IT%20Park%20Limited/Desktop/MLOps/Experiments-with_MLFlow/mlruns/301085501470006089/models/m-e499bb7619534fa4aa66831ff81aadde/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.0
+mlflow_version: 3.1.1
+model_id: m-e499bb7619534fa4aa66831ff81aadde
+model_size_bytes: 317818
+model_uuid: m-e499bb7619534fa4aa66831ff81aadde
+prompts: null
+run_id: f213331c055e4be0a952998e867cba73
+utc_time_created: '2025-07-14 06:52:43.576537'

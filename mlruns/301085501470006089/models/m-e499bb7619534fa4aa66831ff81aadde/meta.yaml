@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sanjeev2.prajapati/OneDrive%20-%20Reliance%20Corporate%20IT%20Park%20Limited/Desktop/MLOps/Experiments-with_MLFlow/mlruns/301085501470006089/models/m-e499bb7619534fa4aa66831ff81aadde/artifacts
+creation_timestamp: 1752475963426
+experiment_id: '301085501470006089'
+last_updated_timestamp: 1752475990420
+model_id: m-e499bb7619534fa4aa66831ff81aadde
+model_type: null
+name: random_forest
+source_run_id: f213331c055e4be0a952998e867cba73
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanjeev2.prajapati/OneDrive%20-%20Reliance%20Corporate%20IT%20Park%20Limited/Desktop/MLOps/Experiments-with_MLFlow/mlruns/301085501470006089/d9c2ea73e6d144d0b3368ab300dbb70a/artifacts
+end_time: 1752476173553
+entry_point_name: ''
+experiment_id: '301085501470006089'
+lifecycle_stage: active
+run_id: d9c2ea73e6d144d0b3368ab300dbb70a
+run_name: omniscient-trout-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752476173352
+status: 3
+tags: []
+user_id: Sanjeev2.Prajapati
